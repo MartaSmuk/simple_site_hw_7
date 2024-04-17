@@ -19,7 +19,7 @@
     width: min(100% - $gap-lg, $container-primary);
     margin-inline: auto;
 
-    &--sm {
+    &-sm {
         width: min(100% - $gap-lg, $container-sm);
     }
 }
