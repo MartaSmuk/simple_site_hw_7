@@ -2,7 +2,7 @@
 @use "../../mixins" as *;
 
 .video {
-  background-color: $color-light;
+  background-color: $color-gray-light;
   padding-bottom: 100px;
 
   &__iframe {

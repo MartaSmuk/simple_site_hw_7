@@ -473,7 +473,7 @@ a {
 .section {
   padding-top: 112px;
   padding-bottom: 92px;
-  background-color: #f9f9f9;
+  background-color: #eeeff1;
 }
 .section__title {
   font-weight: 500;
@@ -542,7 +542,7 @@ a {
 }
 
 .video {
-  background-color: #f9f9f9;
+  background-color: #eeeff1;
   padding-bottom: 100px;
 }
 .video__iframe {
