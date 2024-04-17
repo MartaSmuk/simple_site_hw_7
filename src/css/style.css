@@ -495,7 +495,7 @@ a {
 .experience .container {
   display: flex;
   gap: 20px;
-  flex-wrap: wrap;
+  flex-wrap: no-wrap;
 }
 @media (min-width: 1200px) {
   .experience .container {

@@ -9,7 +9,7 @@
   .container {
     display: flex;
     gap: $gap;
-    flex-wrap: wrap;
+    flex-wrap: no-wrap;
 
     @include xl-min {
       justify-content: space-between;
